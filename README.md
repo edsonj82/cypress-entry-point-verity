@@ -1,0 +1,1 @@
+# cypress-entry-point-verity
